@@ -1,0 +1,43 @@
+.title{
+border: 3px solid red;
+text-align: center;
+width: 50%;
+margin: 0 auto;
+}
+
+.leftMost{
+width:250px;
+height:250px;
+margin-right:15px;
+float:left;
+
+}
+
+.rightMost{
+  width:320px;
+  height:200px;
+  margin-right:15px;
+  float:right;
+
+
+}
+
+li:hover {
+border-left:5px solid red;
+}
+
+li{
+border-left:5px solid
+ blue;
+font-size:30px;
+}
+
+a{
+position:fixed;
+right: 10px;
+top: 5px;
+background-color: lightyellow;
+border: 1px solid gray;
+
+
+}
